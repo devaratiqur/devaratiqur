@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/146vydW7n3UM_9emYDLAzvFZUrb0fXexR/view?usp=sharing">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHvJxb12OEDYg/profile-displaybackgroundimage-shrink_350_1400/B56ZhlW_xUG4AY-/0/1754047185801?e=1756944000&v=beta&t=K1RLCO2Uj8DortA2nE2GhZ6JnctvUMKLPTNRFS843FE">
 <h1 align="center">Hello 👋, I'm Atiqur Rahman</h1>
 <h3 align="justify">I am a professional web designer, developer and WordPress expert. I am passionate about creating error-free websites with 100% client satisfaction. I am passionate about learning new skills and spreading that knowledge to others. I love solving real world problems. I am strategic, goal-oriented and always work with an end goal in mind. I have built many websites over the past few years. I pride myself on delivering quality work and maintaining excellent communication. The technologies I like to work with include HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL, and WordPress.</h3>
 
